@@ -3,7 +3,8 @@ A frontend-based Online Voting System built using HTML, CSS, and JavaScript, fea
 This project is ideal for learning frontend logic, DOM manipulation, and GitHub Pages deployment.
 ## 🚀 Live Demo
 https://adeel-ai-builder.github.io/AKX-Voting-System/
-📌 Features
+
+## 📌 Features
 👤 Role-Based Access
 
 Admin
