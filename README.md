@@ -25,7 +25,7 @@ Vote for one candidate only
 
 Cannot modify candidates
 
-🗳️ Voting Rules
+## 🗳️ Voting Rules
 
 One vote per person (browser-based)
 
@@ -35,7 +35,7 @@ Votes are counted automatically
 
 Results displayed clearly (name on left, votes on right)
 
-🎨 User Interface
+## 🎨 User Interface
 
 Light, professional gradient design
 
@@ -45,7 +45,7 @@ Responsive card-based layout
 
 Clean alignment (candidate name left, radio right)
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5 – Page structure
 
@@ -57,18 +57,24 @@ localStorage – Temporary data storage (frontend simulation)
 
 GitHub Pages – Hosting
 
-📁 Project Structure
+## 📁 Project Structure
 online-voting-system/
 │
 ├── index.html        # Role Selection (Start Page)
+
 ├── login.html        # Login Page (Admin / Voter)
+
 ├── admin.html        # Admin Panel
+
 ├── voter.html        # Voter Page
+
 ├── style.css         # Global Styling
+
 ├── script.js         # Application Logic
+
 └── README.md         # Project Documentation
 
-🔐 Login Credentials (Demo)
+## 🔐 Login Credentials (Demo)
 Admin
 
 Username: admin
@@ -81,9 +87,9 @@ Username: voter
 
 Password: 123
 
-⚠️ Note: These credentials are hardcoded for learning purposes only.
+## ⚠️ Note: These credentials are hardcoded for learning purposes only.
 
-🧠 How the System Works
+## 🧠 How the System Works
 
 index.html loads first (GitHub Pages default)
 
@@ -99,7 +105,7 @@ Voter → voter.html
 
 Voting & results are handled using JavaScript and localStorage
 
-⚠️ Important Disclaimer
+## ⚠️ Important Disclaimer
 
 This project is a frontend simulation.
 
@@ -113,7 +119,7 @@ This project is a frontend simulation.
 
 For real-world voting systems, a secure backend and database are required.
 
-🎓 Use Cases
+## 🎓 Use Cases
 
 University / College Project
 
@@ -125,7 +131,7 @@ GitHub Portfolio Project
 
 Viva / Interview Explanation
 
-📈 Possible Future Enhancements
+## 📈 Possible Future Enhancements
 
 Admin password change
 
@@ -141,7 +147,7 @@ Winner highlighting
 
 Mobile-first UI improvements
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Adeel Khan
 Frontend Developer | AI & Web Enthusiast
