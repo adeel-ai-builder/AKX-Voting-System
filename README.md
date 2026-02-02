@@ -60,6 +60,7 @@ GitHub Pages – Hosting
 ## 📁 Project Structure
 online-voting-system/
 │
+
 ├── index.html        # Role Selection (Start Page)
 
 ├── login.html        # Login Page (Admin / Voter)
@@ -75,6 +76,7 @@ online-voting-system/
 └── README.md         # Project Documentation
 
 ## 🔐 Login Credentials (Demo)
+
 Admin
 
 Username: admin
