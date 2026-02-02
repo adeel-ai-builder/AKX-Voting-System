@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="header">AKX VOTING SYSTEM</div>
+
+<div class="container">
+    <h2>Admin Panel</h2>
+
+    <input type="text" id="candidateName" placeholder="Enter candidate name">
+    <button onclick="addCandidate()">Add Candidate</button>
+
+    <button onclick="resetElection()">Reset Election</button>
+    <button onclick="logout()">Logout</button>
+
+    <h3>Results</h3>
+    <div id="results"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
